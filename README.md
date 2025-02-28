@@ -56,7 +56,7 @@ To explore SkillCraft AI:
 ## Installation  
 To set up SkillCraft AI locally:  
 1. Clone the repository from GitHub:
-   - git clone https://github.com/raghuram1784/skillcraft-ai.git
+   - git clone https://github.com/chandrika-2201/skillcraft-ai.git
      
 2. Install the required dependencies:
    - pip install -r requirements.txt
